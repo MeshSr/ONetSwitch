@@ -3,25 +3,27 @@ The ONetSwitch project sets up an open [Software Defined Networking](https://en.
 
 ONetSwitch provides several open source reference designs available on GitHub:[OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT) and [OpenFlow switch hardware implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT). Each reference design consist of open source FPGA RTL Code, Linux OS and open source software. The reference designs can be programmed in both software and hardware to fit your own needs.[We have successfully raised $53,769 USD with 119 backers at Kickstarter.](https://www.kickstarter.com/projects/onetswitch/onetswitch-open-source-hardware-for-networking)
 
+
 * [What can you do with ONetSwitch?](https://www.youtube.com/watch?v=aebKz1YQQfw)
 * [User Demo](http://onetswitch.org/project.html)
 * Where to Buy ONetSwitch? Please contact: sales@meshsr.com
-
-###Getting Started
-
-####Creat a New Partition on the SD card
-
-####Prepare boot files on the SD card
-
-####Set the SD card boot model
-
-####3	Getting up and Running
 
 ###ONetSwitch Hardware
 * [ONetSwitch20](https://github.com/MeshSr/wiki/wiki/ONetSwitch20)
 * [ONetSwitch30](https://github.com/MeshSr/wiki/wiki/ONetSwitch30)
 * [ONetSwitch45](https://github.com/MeshSr/wiki/wiki/ONetSwitch45)
 
+###Getting Started
+
+####1.Creat a New Partition on the SD card
+
+####2.Prepare boot files on the SD card
+
+####3.Set the SD card boot model
+
+####4.Setup a Serial Console
+
+####5.Power up and Running
 
 ###ONetSwitch Software
 * [ONetSwitch OFS-SW code](https://github.com/MeshSr/ofs-sw)
