@@ -3,6 +3,8 @@ The ONetSwitch project sets up an open [Software Defined Networking](https://en.
 
 ONetSwitch provides several open source reference designs available on GitHub:[OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT) and [OpenFlow switch hardware implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT). Each reference design consist of open source FPGA RTL Code, Linux OS and open source software. The reference designs can be programmed in both software and hardware to fit your own needs.
 
+* [What can you do with ONetSwitch?](https://www.youtube.com/watch?v=aebKz1YQQfw)
+We have successfully raised $53,769 USD with 119 backers at [Kickstarter](https://www.kickstarter.com/projects/onetswitch/onetswitch-open-source-hardware-for-networking)
 
 ###ONetSwitch Hardware
 * [ONetSwitch20](https://github.com/MeshSr/wiki/wiki/ONetSwitch20)
