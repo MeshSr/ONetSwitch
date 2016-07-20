@@ -16,9 +16,9 @@ ONetSwitch provides several open source reference designs available on GitHub:Op
 * [ONetSwitch45](https://github.com/MeshSr/wiki/wiki/ONetSwitch45)
 
 
-###ONetSwitch Software
-* [OpenFlow switch software implement](https://github.com/MeshSr/ofs-sw)
-* [OpenFlow switch hardware implement](https://github.com/MeshSr/ofs-hw)
+###ONetSwitch Software and OpenFlow Switch Reference Design
+* [OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT)
+* [OpenFlow switch hardware implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT)
 * [ONetSwitch U-boot](https://github.com/MeshSr/u-boot-meshsr)
 * [ONetSwitch Linux kernel](https://github.com/MeshSr/linux-meshsr)
 
