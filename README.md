@@ -1,6 +1,12 @@
 ###ONetSwitch series wiki
-Welcome to the ONetSwitch series wiki.  
-This repository is for wiki pages, images(product pictures, design/block diagrams) and document downloading, to illustrate the common design blocks, building/scripting flows, and general guides on our ONetSwitch series.  
+ONetSwitch provides several open source reference designs available on GitHub:OpenFlow Switch-SW and OpenFlow Switch-HW. Each reference design consist of open source FPGA RTL Code, Linux OS and open source software. The reference designs can be programmed in both software and hardware to fit your own needs:
+
+Product Brief: brief introduction to MeshSr ONetSwitch series' features, block diagrams, and board settings. 
+Workflow: Design flows on Zynq SoC, related embedded software and high-level applications.
+Getting-Started: Projects simply utilizing individual design block, for quick hardware test, to make you getting started.
+Reference Design: Projects implementing kinds of network applications, as references, to help your own customization.
+
+
 
 ###Wiki Contents
 * [ONetSwitch Wiki Home](https://github.com/meshsr/wiki/wiki)  
