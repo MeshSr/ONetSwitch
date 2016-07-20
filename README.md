@@ -26,4 +26,4 @@ ONetSwitch provides several open source reference designs available on GitHub:Op
 Please submit your bug reports, fixes and suggestions as pull requests on GitHub, or by contacting us directly.
 
 ###Contact
-E-mail: zeweiyang@gmail.com
+E-mail: zewei.yang@meshsr.com
