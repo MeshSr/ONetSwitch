@@ -1,11 +1,7 @@
 ###ONetSwitch
-The ONetSwitch project sets up an open Software Defined Networking (SDN) platform that make it easy for you to create new network applications. 
+The ONetSwitch project sets up an open [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) platform that make it easy for you to create new network applications. 
 
 ONetSwitch provides several open source reference designs available on GitHub:[OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT) and [OpenFlow switch hardware implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT). Each reference design consist of open source FPGA RTL Code, Linux OS and open source software. The reference designs can be programmed in both software and hardware to fit your own needs.
-
-
- : Projects implementing kinds of network applications, as references, to help your own customization.
-
 
 
 ###ONetSwitch Hardware
@@ -25,7 +21,7 @@ ONetSwitch provides several open source reference designs available on GitHub:[O
 * [Design Workflow](https://github.com/MeshSr/wiki/wiki/Guide-Workflow)
 * [ONetSwitch HW test](https://github.com/MeshSr/wiki/wiki/Guide-Getting-Started)
 * [ONetSwitch Other Reference Design](https://github.com/MeshSr/wiki/wiki/Guide-Reference-Design)
-* 
+
 ###Contribute
 Please submit your bug reports, fixes and suggestions as pull requests on GitHub, or by contacting us directly.
 
