@@ -7,6 +7,16 @@ ONetSwitch provides several open source reference designs available on GitHub:[O
 * [User Demo](http://onetswitch.org/project.html)
 * Where to Buy ONetSwitch? Please contact: sales@meshsr.com
 
+###Getting Started
+
+####Creat a New Partition on the SD card
+
+####Prepare boot files on the SD card
+
+####Set the SD card boot model
+
+####3	Getting up and Running
+
 ###ONetSwitch Hardware
 * [ONetSwitch20](https://github.com/MeshSr/wiki/wiki/ONetSwitch20)
 * [ONetSwitch30](https://github.com/MeshSr/wiki/wiki/ONetSwitch30)
