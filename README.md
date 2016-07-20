@@ -6,6 +6,7 @@ ONetSwitch provides several open source reference designs available on GitHub:[O
 * [What can you do with ONetSwitch?](https://www.youtube.com/watch?v=aebKz1YQQfw)
 * [User Demo](http://onetswitch.org/project.html)
 * [We have successfully raised $53,769 USD with 119 backers at Kickstarter](https://www.kickstarter.com/projects/onetswitch/onetswitch-open-source-hardware-for-networking)
+* Where to Buy ONetSwitch? Please contact:sales@meshsr.com
 
 ###ONetSwitch Hardware
 * [ONetSwitch20](https://github.com/MeshSr/wiki/wiki/ONetSwitch20)
@@ -29,5 +30,4 @@ ONetSwitch provides several open source reference designs available on GitHub:[O
 Please submit your bug reports, fixes and suggestions as pull requests on GitHub, or by contacting us directly.
 
 ###Contact
-* BUY ONetSwitch:sales@meshsr.com
 * E-mail: zewei.yang@meshsr.com
