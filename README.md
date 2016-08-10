@@ -5,7 +5,9 @@ ONetSwitch provides several open source reference designs available on GitHub:[O
 
 
 * [What can you do with ONetSwitch?](https://www.youtube.com/watch?v=aebKz1YQQfw)
-* [User Demo](http://onetswitch.org/project.html)
+* [ONetSwitch cluster for a 20-node DC in a Fat-Tree topology](https://www.youtube.com/watch?v=l547FhU6rqo#t=26)
+* [ONetSwitch for Video Stream Bandwidth Managemen](https://www.youtube.com/watch?v=9goo1ju4bvQ&feature=youtu.be)
+* [ONetSwitch User Porjects](http://onetswitch.org/project.html)
 * Where to Buy ONetSwitch? Please contact: sales@meshsr.com
 
 ###ONetSwitch Hardware
