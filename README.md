@@ -1,5 +1,6 @@
 ###ONetSwitch
 The ONetSwitch project sets up an open [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) platform that make it easy for you to create new network applications. 
+ONetSwitch is an All Programmable open networking innovation platform.ONetSwitch is based on the Xilinx Zynq-7000 SoC. It can achieve a comprehensive experiment platform integrating calculations, storage, networks and interconnection by extension. Both its software and hardware can realize custom programming. Its reference designs are abundant and flexible, can be used to various researches on the evolution of network prototypes, and the development of customized network products. Especially, the features of the miniaturization and low power are adapted to the multi-node network tests and deployments.
 
 ONetSwitch provides two open source SDN Switch reference desins available on GitHub:
 * [OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT)
