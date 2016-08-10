@@ -1,14 +1,19 @@
 ###ONetSwitch
 The ONetSwitch project sets up an open [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) platform that make it easy for you to create new network applications. 
 
-ONetSwitch provides several open source reference designs available on GitHub:[OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT) and [OpenFlow switch hardware implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT). Each reference design consist of open source FPGA RTL Code, Linux OS and open source software. The reference designs can be programmed in both software and hardware to fit your own needs.[We have successfully raised $53,769 USD with 119 backers at Kickstarter.](https://www.kickstarter.com/projects/onetswitch/onetswitch-open-source-hardware-for-networking)
+ONetSwitch provides several open source reference designs available on GitHub:
+*[OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT)
+*[OpenFlow switch hardware implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT)
+
+Each reference design consist of open source FPGA RTL Code, Linux OS and open source software. The reference designs can be programmed in both software and hardware to fit your own needs.[We have successfully raised $53,769 USD with 119 backers at Kickstarter.](https://www.kickstarter.com/projects/onetswitch/onetswitch-open-source-hardware-for-networking)
 
 
 * [What can you do with ONetSwitch?](https://www.youtube.com/watch?v=aebKz1YQQfw)
 * [ONetSwitch cluster for a 20-node DC in a Fat-Tree topology](https://www.youtube.com/watch?v=l547FhU6rqo#t=26)
 * [ONetSwitch for Video Stream Bandwidth Managemen](https://www.youtube.com/watch?v=9goo1ju4bvQ&feature=youtu.be)
 * [ONetSwitch User Porjects](http://onetswitch.org/project.html)
-* Where to Buy ONetSwitch? Please contact: sales@meshsr.com
+* Where to Buy ONetSwitch? 
+* *Please contact: sales@meshsr.com
 
 ###ONetSwitch Hardware
 * [ONetSwitch30](https://github.com/MeshSr/wiki/wiki/ONetSwitch30)
