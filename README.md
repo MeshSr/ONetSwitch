@@ -15,6 +15,12 @@ ONetSwitch provides several open source reference designs available on GitHub:[O
 * [ONetSwitch30](https://github.com/MeshSr/wiki/wiki/ONetSwitch30)
 * [ONetSwitch45](https://github.com/MeshSr/wiki/wiki/ONetSwitch45)
 
+###Open Source Reference Designs
+* [OpenFlow switch software implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT)
+* [OpenFlow switch hardware implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT)
+* [Traditional Layer 2 Switch implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-Switch)
+* [Quad Gigabit Ethernet Ports SBC](https://github.com/MeshSr/ONetSwitch/wiki/REF-NIC)
+
 ###Getting Started
 
 ####1.Creat a New Partition on the SD card
