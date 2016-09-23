@@ -15,7 +15,8 @@ Each reference design consist of open source FPGA RTL Code, Linux OS and open so
 * [ONetSwitch cluster for a 20-node DC in a Fat-Tree topology](https://www.youtube.com/watch?v=l547FhU6rqo#t=26)
 * [ONetSwitch for Video Stream Bandwidth Managemen](https://www.youtube.com/watch?v=9goo1ju4bvQ&feature=youtu.be)
 * [ONetSwitch User Porjects](http://onetswitch.org/project.html)
-* Where to Buy ONetSwitch?   Please contact: sales@meshsr.com
+* Where to Buy?   Please contact: sales@meshsr.com
+* Any Support?    Please contact: support@meshsr.com
 
 ###ONetSwitch Hardware
 * [ONetSwitch30](https://github.com/MeshSr/wiki/wiki/ONetSwitch30)
