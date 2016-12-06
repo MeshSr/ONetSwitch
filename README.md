@@ -46,7 +46,8 @@ Each reference design consist of open source FPGA RTL Code, Linux OS and open so
 * [ONetSwitch OFS-HW code](https://github.com/MeshSr/ofs-hw)
 * [ONetSwitch U-boot](https://github.com/MeshSr/u-boot-meshsr)
 * [ONetSwitch Linux kernel](https://github.com/MeshSr/linux-meshsr)
-
+* [ONS-ofsoftswitch13](http://cpqd.github.io/ofsoftswitch13/)
+* [ONS-dpctl](https://github.com/CPqD/ofsoftswitch13/wiki/Dpctl-Documentation)
 
 ###ONetSwitch Tutorial
 * [Design Workflow](https://github.com/MeshSr/wiki/wiki/Guide-Workflow)
