@@ -1,4 +1,4 @@
-###ONetSwitch
+**ONetSwitch**
 The ONetSwitch project sets up an open [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) platform that make it easy for you to create new network applications. 
 
 ONetSwitch is an All Programmable open networking innovation platform.
@@ -18,30 +18,30 @@ Each reference design consist of open source FPGA RTL Code, Linux OS and open so
 * Where to Buy?   Please contact: sales@meshsr.com
 * Any Support?    Please contact: support@meshsr.com
 
-###ONetSwitch Hardware
+**ONetSwitch Hardware**
 * [ONetSwitch30](https://github.com/MeshSr/wiki/wiki/ONetSwitch30)
 * [ONetSwitch45](https://github.com/MeshSr/wiki/wiki/ONetSwitch45)
 * [FMC4GE Daughter Card](https://github.com/MeshSr/wiki/wiki/ONetSwitch20)
 
-###Open Source Reference Designs
+**Open Source Reference Designs**
 * [OpenFlow Switch Software Implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-SWFT)
 * [OpenFlow Switch Hardware Implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-OpenFlowSwitch-HWFT)
 * [Traditional Layer 2 Switch implement](https://github.com/MeshSr/ONetSwitch/wiki/REF-Switch)
 * [Quad Gigabit Ethernet Ports SBC](https://github.com/MeshSr/ONetSwitch/wiki/REF-NIC)
 
-###Getting Started
+**Getting Started with ONetSwitch**
 
-####1.Creat a New Partition on the SD card
+- 1.Creat a New Partition on the SD card
 
-####2.Prepare boot files on the SD card
+> 2.Prepare boot files on the SD card
 
-####3.Set the SD card boot model
+3.Set the SD card boot model
 
-####4.Setup a Serial Console
+4.Setup a Serial Console
 
-####5.Power up and Running
+5.Power up and Running
 
-###ONetSwitch Software
+**ONetSwitch Software**
 * [ONetSwitch OFS-SW code](https://github.com/MeshSr/ofs-sw)
 * [ONetSwitch OFS-HW code](https://github.com/MeshSr/ofs-hw)
 * [ONetSwitch U-boot](https://github.com/MeshSr/u-boot-meshsr)
@@ -49,12 +49,12 @@ Each reference design consist of open source FPGA RTL Code, Linux OS and open so
 * [ONS-ofsoftswitch13](http://cpqd.github.io/ofsoftswitch13/)
 * [ONS-dpctl](https://github.com/CPqD/ofsoftswitch13/wiki/Dpctl-Documentation)
 
-###ONetSwitch Tutorial
+**ONetSwitch Tutorial**
 * [Design Workflow](https://github.com/MeshSr/wiki/wiki/Guide-Workflow)
 * [Hardware Test](https://github.com/MeshSr/wiki/wiki/Guide-Getting-Started)
 
-###Contribute
+**Contribute**
 Please submit your bug reports, fixes and suggestions as pull requests on GitHub, or by contacting us directly.
 
-###Contact
+**Contact**
 * E-mail: zewei.yang@meshsr.com
