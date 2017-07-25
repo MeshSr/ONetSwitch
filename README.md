@@ -1,4 +1,5 @@
 **ONetSwitch**
+
 The ONetSwitch project sets up an open [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) platform that make it easy for you to create new network applications. 
 
 ONetSwitch is an All Programmable open networking innovation platform.
@@ -33,13 +34,13 @@ Each reference design consist of open source FPGA RTL Code, Linux OS and open so
 
 - 1.Creat a New Partition on the SD card
 
-> 2.Prepare boot files on the SD card
+- 2.Prepare boot files on the SD card
 
-3.Set the SD card boot model
+- 3.Set the SD card boot model
 
-4.Setup a Serial Console
+- 4.Setup a Serial Console
 
-5.Power up and Running
+- 5.Power up and Running
 
 **ONetSwitch Software**
 * [ONetSwitch OFS-SW code](https://github.com/MeshSr/ofs-sw)
